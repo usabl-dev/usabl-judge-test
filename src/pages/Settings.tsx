@@ -22,7 +22,7 @@ export function Settings() {
         </Form>
       </section>
       <section className="settings-section" aria-labelledby="report-settings-title">
-        <div className="section-heading"><div><h2 id="report-settings-title">Evidence reports</h2><p>Receipts remain bound to the exact checked source state.</p></div></div>
+        <div className="section-heading"><div><h2 id="report-settings-title">Evidence reports</h2><p>Receipts stay bound to the exact checked source state.</p></div></div>
         <dl className="settings-list"><div><dt>Retention</dt><dd>30 days</dd></div><div><dt>Export format</dt><dd>JSON and Markdown</dd></div><div><dt>Policy source</dt><dd>Protected repository base</dd></div></dl>
       </section>
     </div>
