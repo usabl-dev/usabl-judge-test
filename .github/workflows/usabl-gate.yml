@@ -41,7 +41,7 @@ jobs:
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
         with:
           repository: usabl-dev/usabl
-          ref: e7ed0f8eecdb81026b6cb6cd6b1fe40d0e3dddb8
+          ref: 880be324056b53d342728f4a766f6c3ae22fc6a2
           path: usabl-engine
           persist-credentials: false
 
