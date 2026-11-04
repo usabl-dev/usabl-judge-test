@@ -11,7 +11,7 @@ export function Settings() {
       <PageHeader title="Settings" description="Review notification and reporting defaults for this workspace." />
       <div className="clean-control" role="status"><strong>Clean control route</strong><span>No intentional accessibility barrier is planted on this page.</span></div>
       <section className="settings-section" aria-labelledby="notification-settings-title">
-        <div className="section-heading"><div><h2 id="notification-settings-title">Notifications</h2><p>Current values are read-only in the team fixture.</p></div></div>
+        <div className="section-heading"><div><h2 id="notification-settings-title">Notifications</h2><p>Current values are read-only in this test fixture.</p></div></div>
         <Form isWidthLimited>
           <FormGroup label="Notification email" fieldId="notification-email">
             <TextInput id="notification-email" name="notification-email" type="email" value="ops@example.com" readOnly />
