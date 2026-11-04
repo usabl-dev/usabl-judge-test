@@ -1,3 +1,4 @@
+# Gate workflow written by usabl install --ci.
 name: usabl-gate
 # Each run is named after the event, pull request, head, and base that started it, so a review can
 # find the build of this exact pull request even when another pull request has the same head.
